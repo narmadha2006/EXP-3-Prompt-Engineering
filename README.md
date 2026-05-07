@@ -86,6 +86,7 @@ Keep it concise and structured.
 
 
 ## Output
+[PROMPT_EX3_REPORT](PROMPTEX3REPORT.pdf)
 
 ## Result
-
+The experiment showed that different AI platforms produce varied outputs for the same topic, with differences in structure, clarity, and depth of explanation. Optimized prompts improved response quality, highlighting that each AI performs best with prompt styles tailored to its strengths.
